@@ -1,4 +1,4 @@
 # hola-mundo
-Primer repositorio de prueba
+Prueba de creación de ramas
 
 Autor: Harryn V.
